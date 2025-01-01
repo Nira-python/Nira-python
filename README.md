@@ -9,7 +9,7 @@ Article submitted 30 Dec 2024 to [arXiv](https://arxiv.org/abs/2412.21170) : "On
 Article submitted 30 Dec 2024 to *Physical Review Letters* : "Stable bi-frequency spinor modes as Dark Matter candidates"
 
 Master's thesis: "On The Radial Reduction of the Linearization at a Solitary Wave in the Nonlinear Dirac Equation in Three Spatial Dimensions" under the supervision of [Dr. Andrew Comech](https://people.tamu.edu/~comech//homepage.html).
-## 📑 Resume [[PDF]](https://github.com/Nira-python/Nira-python/blob/main/NiranjanaKulkarniResumeDecember2024.pdf)
+## 📑 Resume [[PDF]](https://github.com/Nira-python/Nira-python/blob/main/NiranjanaKulkarniResumeJanuary2025.pdf)
 
 ## ⚙️ Skills
 - Python
