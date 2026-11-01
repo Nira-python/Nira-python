@@ -4,7 +4,7 @@ I'm an Applied Mathematics PhD student, currently delving deep into nonlinear pa
 
 I completed my Master of Science in Mathematics from [Texas A&M](https://www.math.tamu.edu/) in December 2024, and in Spring 2022 finished my BS in Applied Math at [University of California, Davis](https://www.math.ucdavis.edu/).
 
-Article published in Journal of High Energy Physics "Stable bi-frequency spinor modes as Dark Matter candidates" [JHEP Article](https://doi.org/10.1007/JHEP10(2025)082) [arXiv](https://arxiv.org/abs/2501.04027)
+Article published October 2025 in Journal of High Energy Physics "Stable bi-frequency spinor modes as Dark Matter candidates" [JHEP Article](https://doi.org/10.1007/JHEP10(2025)082) [arXiv](https://arxiv.org/abs/2501.04027)
 
 Article submitted 30 Dec 2024 to [arXiv](https://arxiv.org/abs/2412.21170): "On spectral stability of one- and bi-frequency solitary waves in Soler model in (3+1)D"
 
