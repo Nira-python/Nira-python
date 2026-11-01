@@ -9,7 +9,7 @@ Article published October 2025 in Journal of High Energy Physics "Stable bi-freq
 Article submitted 30 Dec 2024 to [arXiv](https://arxiv.org/abs/2412.21170): "On spectral stability of one- and bi-frequency solitary waves in Soler model in (3+1)D"
 
 Master's thesis: "On The Radial Reduction of the Linearization at a Solitary Wave in the Nonlinear Dirac Equation in Three Spatial Dimensions" under the supervision of [Dr. Andrew Comech](https://people.tamu.edu/~comech//homepage.html).
-## 📑 Resume [[PDF]](https://github.com/Nira-python/Nira-python/blob/main/NiranjanaKulkarniResumeJanuary2025.pdf)
+## 📑 Resume [[PDF]](https://github.com/Nira-python/Nira-python/blob/main/NiranjanaKulkarniResumeOctober2026.pdf)
 
 ## ⚙️ Skills
 - Python
